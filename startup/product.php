@@ -112,9 +112,9 @@
                     <a href="" class="h5 text-white">Home</a>
                     <i class="far fa-circle text-white px-2"></i>
                     <a href="" class="h5 text-white"><?php echo $rw[1];?></a>
-                    <?php
+                <?php
                     }
-                    ?>
+                ?>
                 </div>
             </div>
         </div>
